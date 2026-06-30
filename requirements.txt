@@ -1,0 +1,5 @@
+scikit-learn
+opencv-python
+scikit-image
+img2vec-pytorch
+pillow
